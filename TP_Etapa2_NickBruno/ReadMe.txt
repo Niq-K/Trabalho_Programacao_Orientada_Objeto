@@ -1,0 +1,1 @@
+O programa está apresentando erros em meu compilador, mas pretendo resolvê-los até a Arguição. Contudo os código estão na "teoria" corretos.
